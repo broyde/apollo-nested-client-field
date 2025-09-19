@@ -1,0 +1,15 @@
+{
+  "name": "apollo-nested-client-field",
+  "version": "1.0.0",
+  "description": "Example to show incorrect @client nested fields resolution by @apollo/client@4",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@apollo/client": "^4.0.5",
+    "graphql": "^16.11.0",
+    "jest": "^30.1.3",
+    "rxjs": "^7.8.2"
+  }
+}
